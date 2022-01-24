@@ -1,7 +1,8 @@
 # htmlStarter
 HTML Starter information - Also an introduction to the markdown files
 
-Heading Examples below: add hash # symbol at the beginning of hte line. The number of the hash symbol will increase the heading type.
+## Heading Examples
+
 ## htmlStarter
 ### htmlStarter
 #### htmlStarter
@@ -14,7 +15,7 @@ You can write up to Heading 6.
 
 [Information Source](https://medium.com/@saumya.ranjan/how-to-write-a-readme-md-file-markdown-file-20cb7cbcd6f "medium.com/@saumya.ranjan")
 
-## Test Styles
+## Text Styles
 _Italic Text_
 
 **Bold/Strong Text**
