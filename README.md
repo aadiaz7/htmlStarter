@@ -15,7 +15,7 @@ You can write up to Heading 6.
 
 [Information Source](https://medium.com/@saumya.ranjan/how-to-write-a-readme-md-file-markdown-file-20cb7cbcd6f "medium.com/@saumya.ranjan")
 
-## Text Styles
+## Test Styles
 _Italic Text_
 
 **Bold/Strong Text**
